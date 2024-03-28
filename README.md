@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- About Me Intro -->
 - 🎓 Graduated in BS- Software Engineer and done 3 years diploma from Aptech
 - 👨‍💻 All of my projects are available at **[Linked Portfolio](https://www.linkedin.com/in/muhammad-arsalan-khan-605794200/)**
-- ⭐ New on Fiverr Freelancer
+- ⭐ New on upwork Freelancer
 - 🏆 Completed lots projects with National and International clients
 - 🤠 Coded 1000+ hours
 - ⭐ 20+ Repositories on GitHub (Public/Private)
