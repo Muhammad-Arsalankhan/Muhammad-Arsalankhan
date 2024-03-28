@@ -4,7 +4,7 @@
 <img src="https://scontent.fkhi11-1.fna.fbcdn.net/v/t39.30808-6/314380927_1312858116184153_8380490971457774184_n.png?stp=dst-png_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE1Yx1qq8Iu_w7AZmkhHxccAcNfgpzzsaEBw1-CnPOxoVa_U5CA16BUbAq9QQLQSVi3yT7ndGUkqmI7qda3FRTr&_nc_ohc=CVKlCFQbn_QAX8JPczL&_nc_ht=scontent.fkhi11-1.fna&oh=00_AfAxK4M1ac9mrPSUeeW5j3IPbo36uo3mCtbzSn7GpEEGzw&oe=6438266F"/>
 <br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Arsalan khan</h1>
-<h3 align="center">I'm a passionate Full Web Stack Developer | Laravel/Vue and freelancer from pakistan</h3>
+<h3 align="center">I'm a passionate Senior Software Engineer From Pakistan. </h3>
 
 <!--
 **Muhammad-Arsalankhan/Muhammad-Arsalankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <!-- Technologies -->
 - HTML, CSS, Bootstrap ,Javascript, Tailwind CSS,
 - Design (Canva,Figma)
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- Backend (PHP, Laravel,Codeigniter, NodeJs)
 - AWS Cloud (EC2,Athena,Lambda,IAM roles,Cloudfront,Security ,CI/CD(CodeCommit,CodeBuild,CodeDeploy),Deployment,Load Balancers,Cache..)
-- Styling (Tailwindcss, Material-UI, Bootstrap, Sass)
+- Styling (Tailwindcss, Material-UI, Bootstrap, VueJS)
 - Payments (Stripe , paypal , payoneer , jazzcash , easypaisa,authorize.net)
 - Databases (MongoDB, PostgreSQL,SQLlite DB ,MYSql)
 - Project Management (git, Github, CI/CD,Jira, Bitbucket, Gitlab,Trello)
